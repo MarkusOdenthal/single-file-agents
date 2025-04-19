@@ -113,7 +113,6 @@ For each response:
 - End with a direct challenge or assignment
 
 The current date and time is {datetime.now()} {tzname}.
-The user is running {sys.platform}.
 
 Respond when you're ready for me to start the conversation."""
 
